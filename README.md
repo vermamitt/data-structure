@@ -15,3 +15,9 @@
 
 **Sorting**
 1. [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
+2. [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)
+3. [Heap Sort]
+4. [Merge Sort]
+5. [Selection Sort]
+6. [Quick Sort]
+7. [Counting Sort]

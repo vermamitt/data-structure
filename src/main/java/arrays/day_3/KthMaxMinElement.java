@@ -1,11 +1,11 @@
-package Arrays.day_3;
+package arrays.day_3;
 
 import java.util.Arrays;
 
 public class KthMaxMinElement {
 
     public static void main(String[] args) {
-        int array[] = {2, 8, 4, 1, 6, 5, 3, 4, 9};
+        int[] array = {2, 8, 4, 1, 6, 5, 3, 4, 9};
         findKthMaxMin(array, 2);
         findKthMaxMin(array, 3);
     }

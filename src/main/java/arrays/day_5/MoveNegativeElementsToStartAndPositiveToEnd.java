@@ -1,4 +1,4 @@
-package Arrays.day_5;
+package arrays.day_5;
 
 public class MoveNegativeElementsToStartAndPositiveToEnd {
     public static void main(String[] args) {

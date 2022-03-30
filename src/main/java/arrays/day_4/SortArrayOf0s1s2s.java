@@ -1,4 +1,4 @@
-package Arrays.day_4;
+package arrays.day_4;
 
 public class SortArrayOf0s1s2s {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Arrays.day_2;
+package arrays.day_2;
 
 public class FindMaximumAndMinimumInArray {
     public static void main(String[] args) {

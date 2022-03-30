@@ -1,4 +1,4 @@
-package Arrays.day_1;
+package arrays.day_1;
 
 public class ReverseTheArray {
     public static void main(String[] args) {

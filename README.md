@@ -9,6 +9,7 @@
 5. [Move all the negative elements to one side of the array](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 6. [Find the Union and Intersection of the two sorted arrays](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)
 7. [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+8. [Find largest sum contiguous sub array](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
 
 **Searching**

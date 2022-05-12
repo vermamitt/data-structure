@@ -23,3 +23,6 @@
 5. [Selection Sort]
 6. [Quick Sort]
 7. [Counting Sort]
+
+**Binary Trees**
+1. [Level Order Traversal ](https://www.geeksforgeeks.org/level-order-tree-traversal/)

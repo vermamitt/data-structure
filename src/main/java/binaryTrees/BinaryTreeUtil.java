@@ -13,4 +13,18 @@ public class BinaryTreeUtil {
         tree.root.right.right = new Node(7);
         return tree;
     }
+
+    public static int height(Node node) {
+        if (node == null) {
+            return 0;
+        } else {
+            int lHeight = height(node.left);
+            int rHeight = height(node.right);
+            if (lHeight > rHeight) {
+                return lHeight + 1;
+            } else {
+                return rHeight + 1;
+            }
+        }
+    }
 }

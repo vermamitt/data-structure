@@ -30,4 +30,7 @@
 3. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 4. [Diameter of a tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 5. [Mirror of a tree](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/)
-6. 
+6. [Inorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
+7. [Preorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
+8. [Postorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
+9. 

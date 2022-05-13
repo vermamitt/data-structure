@@ -28,3 +28,6 @@
 1. [Level Order Traversal ](https://www.geeksforgeeks.org/level-order-tree-traversal/)
 2. [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 3. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+4. [Diameter of a tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+5. [Mirror of a tree](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/)
+6. 

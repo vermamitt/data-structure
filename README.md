@@ -33,4 +33,7 @@
 6. [Inorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
 7. [Preorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
 8. [Postorder Traversal of a tree both using recursion and Iteration](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
-9. [Left View of a tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+9. [Left view of a tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+10. [Right view of a tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+11. [Top view of a tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+12. [Bottom view of a tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)

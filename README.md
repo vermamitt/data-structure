@@ -39,3 +39,4 @@
 12. [Bottom view of a tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 13. [Zig-Zag traversal of a binary tree](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
 14. [Check if a tree is balanced or not](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
+15. [Diagnol Traversal of a Binary tree](https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/)

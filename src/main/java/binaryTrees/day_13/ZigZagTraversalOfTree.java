@@ -1,4 +1,4 @@
-package day_13;
+package binaryTrees.day_13;
 
 import binaryTrees.BinaryTree;
 import binaryTrees.BinaryTreeUtil;

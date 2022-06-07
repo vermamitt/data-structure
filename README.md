@@ -11,11 +11,10 @@
 7. [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 8. [Find largest sum contiguous sub array](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
-
 **Searching**
 
-
 **Sorting**
+
 1. [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
 2. [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)
 3. [Heap Sort]
@@ -25,6 +24,7 @@
 7. [Counting Sort]
 
 **Binary Trees**
+
 1. [Level Order Traversal ](https://www.geeksforgeeks.org/level-order-tree-traversal/)
 2. [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 3. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
@@ -42,3 +42,4 @@
 15. [Diagnol Traversal of a Binary tree](https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/)
 16. [Boundary traversal of a Binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 17. [Construct Binary Tree from String with Bracket Representation](https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/)
+18. [Convert Binary tree into Doubly Linked List](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)

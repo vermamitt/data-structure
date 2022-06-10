@@ -49,3 +49,4 @@
 22. [Check if Binary tree is Sum tree or not](https://practice.geeksforgeeks.org/problems/sum-tree/1)
 23. [Check if all leaf nodes are at same level or not](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1)
 24. [Check if a Binary Tree contains duplicate subtrees of size 2 or more](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
+25. [Check if 2 trees are mirror or not](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1)

@@ -55,7 +55,7 @@
 28. [Find Largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/)
 29. []()
 30. []()
-31. []()
+31. [Find LCA in a Binary tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 32. []()
 33. []()
 34. [Find all Duplicate subtrees in a Binary tree](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1)

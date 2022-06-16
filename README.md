@@ -57,6 +57,6 @@
 30. [Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)
 31. [Find LCA in a Binary tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 32. [Find distance between 2 nodes in a Binary tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)
-33. []()
+33. [Kth Ancestor of node in a Binary tree](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/)
 34. [Find all Duplicate subtrees in a Binary tree](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1)
 35. [Tree Isomorphism Problem](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)

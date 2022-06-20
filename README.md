@@ -53,7 +53,7 @@
 26. [Sum of Nodes on the Longest path from root to leaf node ](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)
 27. []()
 28. [Find Largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/)
-29. []()
+29. [Maximum Sum of nodes in Binary tree such that no two are adjacent ](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/)
 30. [Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)
 31. [Find LCA in a Binary tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 32. [Find distance between 2 nodes in a Binary tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)

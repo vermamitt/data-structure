@@ -51,7 +51,7 @@
 24. [Check if a Binary Tree contains duplicate subtrees of size 2 or more](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
 25. [Check if 2 trees are mirror or not](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1)
 26. [Sum of Nodes on the Longest path from root to leaf node ](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)
-27. []()
+27. [Check if given graph is tree or not](https://www.geeksforgeeks.org/check-given-graph-tree/#:~:text=Since%20the%20graph%20is%20undirected,graph%20is%20connected%2C%20otherwise%20not.)
 28. [Find Largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/)
 29. [Maximum Sum of nodes in Binary tree such that no two are adjacent ](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/)
 30. [Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)
